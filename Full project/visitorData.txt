@@ -1,0 +1,6 @@
+name:						IC No.							   Tel.No						  venue			temp	date		time		
+1)	          Soh Yu Zhe	                       student	                111111-11-1111	                   111-1111111	                 Main Entrance	37.00	29/3/2021	0:7              normal
+2)	        Yik Soon Gor	                       teacher	                222222-22-2222	                   222-2222222	                  Cyber Center	30.00	29/3/2021	0:8            abnormal
+3)	        jen Sien Gor	                        staffs	                333333-33-3333	                   333-3333333	             College Main Hall	38.00	29/3/2021	0:8            abnormal
+4)	      Xiao Cherk jie	                      visitors	                444444-44-4444	                   444-4444444	                       Library	37.00	29/3/2021	0:9              normal
+5)	           SuSin jie	                       student	                555555-55-5555	                   555-5555555	                       Library	37.00	29/3/2021	0:10              normal6)	               Chong	                       student	                020122-14-1759	                   012-9646220	               Restroom Area D	38.00	5/4/2021	14:18            abnormal

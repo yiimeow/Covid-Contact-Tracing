@@ -1,0 +1,5 @@
+04/05/2021 14:41:59 PM :User has selected to save file.
+04/05/2021 14:42:00 PM :User has checked venue details table.
+04/05/2021 14:42:09 PM :User has checked venue equipment table
+04/05/2021 14:44:58 PM :User has checked venue descriptions and visitors table
+04/05/2021 14:47:50 PM :User has quit the venue program.
